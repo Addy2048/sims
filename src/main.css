@@ -1,0 +1,124 @@
+.fhw {
+  height: 100%;
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.login-form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.block {
+  display: block;
+}
+
+.log-input {
+  height: 30px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.log-btn {
+  height: 30px;
+  width: 250px;
+  border: none;
+  background-color: rgb(8, 203, 37);
+  color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.result-w {
+  width: 25%;
+  margin-bottom: 15px;
+}
+
+.result-wa {
+  width: 20%;
+  margin-left: 5px;
+  margin-bottom: 15px;
+}
+
+.option-holder {
+  display: flex;
+  width: 100%;
+  min-height: 500px;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.user-option {
+  height: 80px;
+  width: 150px;
+  padding: 20px;
+  border-radius: 8px;
+  border: 2px solid black;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.main-r-cnt {
+  width: 60%;
+}
+
+.results-options {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: beige;
+}
+
+.results-options-a {
+  height: 30px;
+  width: 250px;
+}
+
+.results-title {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.results-table-row {
+  width: 100%;
+  display: flex;
+}
+
+.results-table-title-cnt {
+  height: 30px;
+  border-bottom: 2px solid black;
+  font-weight: bold;
+}
+
+.results-table-cnt {
+  height: 30px;
+  border-bottom: 2px solid black;
+  padding-top: 3px;
+  text-align: center;
+}
